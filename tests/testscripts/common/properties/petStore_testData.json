@@ -1,0 +1,25 @@
+{
+    "metaData" : "This is uploadImage API",
+    "imageLoc" : "E:/JobApplication/profile_pic.jpg",
+    "BASE_URL" : "https://petstore.swagger.io/v2/pet",
+    "pet_id" : 5463,
+    "server" : "Jetty(9.2.9.v20150224)",
+    "add_newPet_payload" : {
+        "id": 0,
+        "category": {
+          "id": 1,
+          "name": "simba"
+        },
+        "name": "simba_doggie",
+        "photoUrls": [
+          "string"
+        ],
+        "tags": [
+          {
+            "id": 0,
+            "name": "string"
+          }
+        ],
+        "status": "available"
+      }
+}
